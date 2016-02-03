@@ -1,6 +1,6 @@
 {
 	"name": "xkcd",
-	"description": "A widget that displays the current xkcd comic",
-	"author": "Dale Manthei – @dalemanthei on GitHub",
-	"email": "dalemanthei@users.noreply.github.com"
+	"description": "A widget that displays the current xkcd comic, with interaction for bringing up a random comic. Based on work done by Dale Manthei",
+	"author": "Adam Towers – @zarkoix on GitHub",
+	"email": "zarkoix@users.noreply.github.com"
 }
