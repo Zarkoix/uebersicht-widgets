@@ -1,1 +1,1 @@
-My widgets for [Übersicht](http://tracesof.net/uebersicht/).
+My xkcd widget for [Übersicht](http://tracesof.net/uebersicht/).
